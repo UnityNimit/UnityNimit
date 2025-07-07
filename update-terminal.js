@@ -63,7 +63,7 @@ async function updateSVG() {
     const [latestActivity, stats] = await Promise.all([getLatestActivity(), getStats()]);
     const updatedSVG = template
         .replace('{{WHOAMI_LINE_1}}', 'Nimit Aryan')
-        .replace('{{WHOAMI_LINE_2}}', 'Software Engineer & Creative Technologist')
+        .replace('{{WHOAMI_LINE_2}}', 'Software Engineer and Creative Technologist')
         .replace('{{LATEST_ACTIVITY}}', latestActivity)
         .replace('{{NEOFETCH_NAME}}', stats.name)
         .replace('{{STARS}}', stats.stars)
