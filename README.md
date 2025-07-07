@@ -1,43 +1,54 @@
-<!-- Center alignment for the entire profile -->
+<!-- 
+================================================================================================================================================
+                                                                                                                                               
+> BOOTING NIMIT-OS...
+> CORE SYSTEMS ONLINE.
+> AWAITING USER.
+                                                                                                                                               
+================================================================================================================================================
+-->
 <div align="center">
 
-  <!-- Animated Greeting -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FFFF¢er=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Nimit+Aryan+%F0%9F%91%8B;I'm+a+Software+Engineer+%26+Creative+Technologist;I+build+bridges+between+code+and+creativity;Welcome+to+my+digital+universe." alt="Typing SVG" />
-  
-  <br>
+<!-- Section 1: The Boot-Up and ASCII Art Name -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00B900&background=00000000¢er=true&vCenter=true&width=1000&height=250&lines=%C2%A0;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0__%C2%A0%C2%A0_%C2%A0_%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0__%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0__%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0__%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0__%C2%A0%C2%A0%C2%A0%C2%A0;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0/___)%7C%C2%A0%7C%7C%C2%A0%7C%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0/___)%7C%C2%A0%7C%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0/___)%7C%C2%A0%7C%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0__%C2%A0;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%7C%C2%A0%C2%A0__%C2%A0%7C%7C%7C%7C%C2%A0%7C__%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%7C%C2%A0%C2%A0__%C2%A0%7C%7C%7C%7C%7C%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0__%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%7C%C2%A0%C2%A0__%C2%A0%7C%7C%7C%7C%7C%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%7C%C2%A0%7C%C2%A0%C2%A0%C2%A0;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%7C%7C%C2%A0%C2%A0%C2%A0%C2%A0%7C%7C%7C%7C%7C%C2%A0%C2%A0%C2%A0__%C2%A0%C2%A0%C2%A0%7C%7C%C2%A0%C2%A0%C2%A0%C2%A0%7C%7C%7C%7C%7C%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0(%20%20%20%5C%C2%A0%C2%A0%C2%A0%C2%A0__%C2%A0%C2%A0%C2%A0%7C%7C%7C%C2%A0%C2%A0%C2%A0%C2%A0%7C%7C%7C%7C%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%7C%7C%C2%A0%C2%A0%C2%A0%C2%A0;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0__%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%7C%7C%C2%A0%C2%A0%C2%A0%C2%A0%7C%7C%7C%7C%7C%7C%C2%A0%C2%A0%7C%C2%A0%7C%C2%A0%C2%A0%7C%7C%7C%C2%A0%C2%A0%C2%A0%C2%A0%7C%7C%7C%7C%7C%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%60-%_-%C2%B4%C2%A0%C2%A0%C2%A0(%20%20%20%5C%C2%A0%C2%A0%C2%A0%C2%A0%7C%7C%C2%A0%C2%A0%C2%A0%C2%A0%7C%7C%7C%7C%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%7C%7C%C2%A0%C2%A0%C2%A0%C2%A0;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%5C___)%7C%7C%C2%A0%C2%A0%C2%A0%C2%A0%7C%7C%7C%7C%7C%C2%A0%C2%A0%7C%7C%7C%7C%7C%7C%7C%C2%A0%C2%A0%C2%A0%C2%A0%7C%7C%7C%7C%7C%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%5C___)%7C%C2%A0%C2%A0%C2%A0%C2%A0%7C%7C%7C%7C%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%7C%7C%C2%A0%C2%A0%C2%A0%C2%A0;%C2%A0;%3E+Booting+Nimit-OS+v1.0...;%3E+System+check...+%5BOK%5D;%3E+Loading+user+profile...+%5BNimit+Aryan%5D;%3E;%3E+Hi+there%2C+welcome+to+my+digital+universe.;%3E+I'm+a+Software+Engineer+%26+Creative+Technologist;%3E+I+build+bridges+between+code+and+creativity." alt="Nimit-OS Boot Sequence" />
+</div>
 
-  <!-- Social Links -->
-  <p>
-    <a href="https://www.linkedin.com/in/nimit-aryan-877985186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  </p>
-  
-  <!-- Divider -->
-  <img src="https://raw.githubusercontent.com/UnityNimit/UnityNimit/main/resources/hr.gif" width="100%">
+<!-- Section 2: Tech Arsenal -->
+<h2 align="center" style="color: #00B900; font-family: 'Fira Code', monospace; font-weight: 500;">> cat /etc/tech_stack.conf</h2>
+<p align="center">
+    <a target="_blank" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+    <a target="_blank" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
+    <a target="_blank" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
+    <a target="_blank" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+    <a target="_blank" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+    <a target="_blank" href="#"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
+    <a target="_blank" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+    <a target="_blank" href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
+    <a target="_blank" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+    <a target="_blank" href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+    <a target="_blank" href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
+</p>
 
-  <!-- The NEW Animated Terminal -->
-  <h2 style="color: #00FFFF; font-family: 'Fira Code', monospace;">Nimit-OS Live Boot Sequence</h2>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00B900&background=00000000&width=800&height=300&lines=%3E+Booting+Nimit-OS+v1.0...;%3E+System+check...+%5BOK%5D;%3E+Connecting+to+GitHub+API...+%5BOK%5D;%3E;%3E+Running+whoami...;%C2%A0%C2%A0Nimit+Aryan;%C2%A0%C2%A0Software+Engineer+%26+Creative+Technologist;%3E;%3E+Running+ls+--latest-activity...;%C2%A0%C2%A0%5BCOMMIT%5D+feat:+implement+live+status+terminal+(in+UnityNimit);%3E;%3E+Running+neofetch...;%C2%A0%C2%A0%3Cstrong+style%3D%22color:%2389B4FA%22%3EOS%3A%3C%2Fstrong%3E%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0GitHub+(Linux+Kernel);%C2%A0%C2%A0%3Cstrong+style%3D%22color:%2389B4FA%22%3EStars%3A%3C%2Fstrong%3E%C2%A0%C2%A0%C2%A0%C2%A0150%2B;%C2%A0%C2%A0%3Cstrong+style%3D%22color:%2389B4FA%22%3ECommits%3A%3C%2Fstrong%3E%C2%A04000%2B;%3E;%3E+System+online.+Awaiting+next+command..." alt="Nimit-OS Boot Sequence" />
-  </p>
-
-  <!-- Divider -->
-  <img src="https://raw.githubusercontent.com/UnityNimit/UnityNimit/main/resources/hr.gif" width="100%">
-
-  <!-- The Snake Game -->
-  <h2 style="color: #00FFFF; font-family: 'Fira Code', monospace;">My Living Commit History</h2>
-  <img src="https://raw.githubusercontent.com/UnityNimit/UnityNimit/main/dist/github-contribution-grid-snake.svg" alt="snake" />
-  
-  <!-- Divider -->
-  <img src="https://raw.githubusercontent.com/UnityNimit/UnityNimit/main/resources/hr.gif" width="100%">
-
-  <!-- GitHub Stats Section -->
-  <h2 style="color: #00FFFF; font-family: 'Fira Code', monospace;">My GitHub Command Center</h2>
-  <p>
+<!-- Section 3: GitHub Command Center -->
+<h2 align="center" style="color: #00B900; font-family: 'Fira Code', monospace; font-weight: 500;">> fetch --user-stats UnityNimit</h2>
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=UnityNimit&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_border=true" alt="Nimit's GitHub stats" height="192px"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UnityNimit&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Nimit's Top Languages" height="192px"/>
-  </p>
-  <p>
+</p>
+<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnityNimit&theme=tokyonight&hide_border=true" alt="Nimit's GitHub Streak" />
-  </p>
+</p>
 
+<!-- Section 4: The Snake -->
+<h2 align="center" style="color: #00B900; font-family: 'Fira Code', monospace; font-weight: 500;">> ./run_contribution_analysis.sh</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/UnityNimit/UnityNimit/main/dist/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+<!-- Section 5: The Shutdown -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00B900&background=00000000¢er=true&vCenter=true&width=600&height=80&lines=%3E+Find+me+on+LinkedIn;%3E;%3E+session.logout();%3E+SHUTTING+DOWN..." alt="Nimit-OS Shutdown Sequence" />
+<p>
+    <a href="https://www.linkedin.com/in/nimit-aryan-877985186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 </div>
