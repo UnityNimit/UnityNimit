@@ -1,0 +1,31 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark background -->
+  <rect width="100%" height="100%" fill="#1A1B27"/>
+
+  <!-- Terminal window chrome -->
+  <text x="10" y="25" font-family="'Courier New', Courier, monospace" font-size="16" fill="#89B4FA">╭─nimit-aryan@github ~/ ──────────────────────────────────────────────╮</text>
+  <text x="10" y="375" font-family="'Courier New', Courier, monospace" font-size="16" fill="#89B4FA">╰──────────────────────────────────────────────────────────────────────╯</text>
+  <text x="10" y="55" font-family="'Courier New', Courier, monospace" font-size="16" fill="#C0CAF5">│                                                                      │</text>
+  <text x="10" y="355" font-family="'Courier New', Courier, monospace" font-size="16" fill="#C0CAF5">│                                                                      │</text>
+
+  <!-- Dynamic Content Area -->
+  <text x="20" y="75" font-family="'Courier New', Courier, monospace" font-size="14" fill="#A9B1D6">
+    <tspan x="20" dy="1.2em"><tspan fill="#82AAFF">> whoami</tspan></tspan>
+    <tspan x="20" dy="1.4em">{{WHOAMI_LINE_1}}</tspan>
+    <tspan x="20" dy="1.2em">{{WHOAMI_LINE_2}}</tspan>
+
+    <tspan x="20" dy="2.4em"><tspan fill="#82AAFF">> ls --latest-activity</tspan></tspan>
+    <tspan x="20" dy="1.4em">{{LATEST_ACTIVITY}}</tspan>
+
+    <tspan x="20" dy="2.4em"><tspan fill="#82AAFF">> neofetch</tspan></tspan>
+    <tspan x="40" dy="1.4em" fill="#89B4FA">.--.</tspan><tspan x="180" dy="0em" fill="#C0CAF5"> {{NEOFETCH_NAME}}</tspan>
+    <tspan x="40" dy="1.2em" fill="#89B4FA">|o_o |</tspan><tspan x="180" dy="0em" fill="#C0CAF5"> ------------------------</tspan>
+    <tspan x="40" dy="1.2em" fill="#89B4FA">|:_/ |</tspan><tspan x="180" dy="0em" fill="#C0CAF5"> <tspan fill="#7AA2F7">OS:</tspan>      GitHub (Linux Kernel)</tspan>
+    <tspan x="40" dy="1.2em" fill="#89B4FA">//   \ \</tspan><tspan x="180" dy="0em" fill="#C0CAF5"> <tspan fill="#7AA2F7">Stars:</tspan>   {{STARS}}</tspan>
+    <tspan x="40" dy="1.2em" fill="#89B4FA">(|     | )</tspan><tspan x="180" dy="0em" fill="#C0CAF5"> <tspan fill="#7AA2F7">Forks:</tspan>   {{FORKS}}</tspan>
+    <tspan x="40" dy="1.2em" fill="#89B4FA">/'\_   _/`\</tspan><tspan x="180" dy="0em" fill="#C0CAF5"> <tspan fill="#7AA2F7">Repos:</tspan>   {{REPOS}}</tspan>
+    <tspan x="40" dy="1.2em" fill="#89B4FA">\___)=(___/</tspan><tspan x="180" dy="0em" fill="#C0CAF5"> <tspan fill="#7AA2F7">Langs:</tspan>   {{LANGS}}</tspan>
+
+    <tspan x="20" dy="2.4em"><tspan fill="#82AAFF">> exit</tspan></tspan>
+  </text>
+</svg>
