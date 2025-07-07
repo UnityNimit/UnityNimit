@@ -1,5 +1,12 @@
 {
+  "name": "profile-updater",
+  "version": "1.0.0",
+  "description": "Scripts to update my GitHub profile README",
+  "main": "update-terminal.js",
+  "scripts": {
+    "start": "node update-terminal.js"
+  },
   "dependencies": {
-    "axios": "^1.0.0"
+    "axios": "^1.1.3"
   }
 }
