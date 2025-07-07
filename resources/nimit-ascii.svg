@@ -1,0 +1,16 @@
+<svg fill="#00B900" width="1000" height="150" viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-size: 16px;
+      text-anchor: middle;
+    }
+  </style>
+  <text x="50%" y="25" class="text">
+    <tspan x="50%" dy="1.2em"><![CDATA[      __ _ _      __                        __              __    ]]></tspan>
+    <tspan x="50%" dy="1.2em"><![CDATA[     / __)| | |    |  |                      |  |            |  |   ]]></tspan>
+    <tspan x="50%" dy="1.2em"><![CDATA[    | |__ | | | |  | |__       |  __ | | | |      _     _   |  __ | | | |         |  |]]></tspan>
+    <tspan x="50%" dy="1.2em"><![CDATA[    |  __)| | | |  |  _  \     | |  | | | | |     / \   / \  | |  | | | | | | | |]]></tspan>
+    <tspan x="50%" dy="1.2em"><![CDATA[     \___)|_|_|_|  |_| \__\    |_|  |_|_|_|_|    _     _   |_|  |_|_|_|_|         |_|]]></tspan>
+  </text>
+</svg>
