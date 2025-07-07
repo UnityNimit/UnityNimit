@@ -1,39 +1,84 @@
-<h1>Hi 👋, I'm Nimit Aryan</h1>
-<p>A passionate Engineer from BML Munjal University</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
-<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="42" height="42" /></a>
-<a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/nimit-aryan-877985186/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=UnityNimit&show_icons=true&locale=en" alt="UnityNimit" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UnityNimit&" alt="UnityNimit" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=UnityNimit&show_icons=true&locale=en&layout=compact" alt="UnityNimit" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UnityNimit" alt="UnityNimit" /></a></p>
+<!-- 
+================================================================================================================================================
+                                                                                                                                               
+   ███╗   ██╗ ██╗ ██████╗ ██╗████████╗     █████╗ ██████╗ ██╗   ██╗ ███╗   ██╗     ██╗   ██╗███████╗███╗   ██╗████████╗███████╗██████╗ 
+   ████╗  ██║ ██║██╔════╝ ██║╚══██╔══╝    ██╔══██╗██╔══██╗╚██╗ ██╔╝ ████╗  ██║     ██║   ██║██╔════╝████╗  ██║╚══██╔══╝██╔════╝██╔══██╗
+   ██╔██╗ ██║ ██║██║  ███╗██║   ██║       ███████║██████╔╝ ╚████╔╝  ██╔██╗ ██║     ██║   ██║█████╗  ██╔██╗ ██║   ██║   █████╗  ██████╔╝
+   ██║╚██╗██║ ██║██║   ██║██║   ██║       ██╔══██║██╔══██╗  ╚██╔╝   ██║╚██╗██║     ╚██╗ ██╔╝██╔══╝  ██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗
+   ██║ ╚████║ ██║╚██████╔╝██║   ██║       ██║  ██║██║  ██║   ██║    ██║ ╚████║      ╚████╔╝ ███████╗██║ ╚████║   ██║   ███████╗██║  ██║
+   ╚═╝  ╚═══╝ ╚═╝ ╚═════╝ ╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═╝  ╚═══╝       ╚═══╝  ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
+                                                                                                                                               
+================================================================================================================================================
+Hello, fellow developer! You've found the source code for my digital world. Feel free to be inspired.
+================================================================================================================================================
+-->
+
+<!-- Center alignment for the entire profile -->
+<div align="center">
+
+  <!-- Animated Greeting -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FFFF¢er=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Nimit+Aryan+%F0%9F%91%8B;I'm+a+Software+Engineer+%26+Creative+Technologist;I+build+bridges+between+code+and+creativity;Welcome+to+my+digital+universe." alt="Typing SVG" /></a>
+  
+  <br>
+
+  <!-- Social Links -->
+  <p>
+    <a href="https://www.linkedin.com/in/nimit-aryan-877985186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <!-- Add other social links here in the same style -->
+  </p>
+  
+  <!-- Divider -->
+  <img src="https://raw.githubusercontent.com/UnityNimit/UnityNimit/main/resources/hr.gif" width="100%">
+
+  <!-- GitHub Stats Section -->
+  <h2 style="color: #00FFFF; font-family: 'Fira Code', monospace;">My GitHub Command Center</h2>
+  <p>
+    <!-- GitHub Stats Card -->
+    <img src="https://github-readme-stats.vercel.app/api?username=UnityNimit&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_border=true" alt="Nimit's GitHub stats" height="192px"/>
+    <!-- Top Languages Card -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UnityNimit&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Nimit's Top Languages" height="192px"/>
+  </p>
+  <p>
+    <!-- GitHub Streak Card -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnityNimit&theme=tokyonight&hide_border=true" alt="Nimit's GitHub Streak" />
+  </p>
+  
+  <!-- The Snake Game -->
+  <h2 style="color: #00FFFF; font-family: 'Fira Code', monospace;">Watch My Contributions Come to Life</h2>
+  <img src="https://raw.githubusercontent.com/UnityNimit/UnityNimit/main/dist/github-contribution-grid-snake.svg" alt="snake" />
+  
+  <!-- Divider -->
+  <img src="https://raw.githubusercontent.com/UnityNimit/UnityNimit/main/resources/hr.gif" width="100%">
+
+  <!-- Tech Stack Section -->
+  <h2 style="color: #00FFFF; font-family: 'Fira Code', monospace;">My Arsenal of Tools & Technologies</h2>
+  
+  <p>
+    <!-- Keep your original icons, they are great! This is a sample row. Add all of them back here. -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" />
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
+    <!-- Add the rest of your icons here -->
+  </p>
+
+  <!-- Divider -->
+  <img src="https://raw.githubusercontent.com/UnityNimit/UnityNimit/main/resources/hr.gif" width="100%">
+
+  <!-- GitHub Trophies -->
+  <h2 style="color: #00FFFF; font-family: 'Fira Code', monospace;">My Digital Trophy Case</h2>
+  <p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=UnityNimit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="UnityNimit" />
+    </a>
+  </p>
+</div>
+
+<!--
+================================================================================================================================================
+That's all for now! Thanks for visiting.
+================================================================================================================================================
+-->
