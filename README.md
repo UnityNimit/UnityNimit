@@ -33,7 +33,7 @@ Hello, fellow developer! You've found the source code for my digital world. Feel
   <!-- The Live Terminal -->
   <h2 style="color: #00FFFF; font-family: 'Fira Code', monospace;">My Live Status Terminal</h2>
   <p>
-    <img src="live_terminal.svg" alt="Nimit's Live Terminal" />
+    <img src="terminal_template.svg" alt="Nimit's Live Terminal" />
   </p>
 
   <!-- Divider -->
