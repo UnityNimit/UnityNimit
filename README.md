@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Animated Greeting -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FFFF¢er=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Nimit+Aryan+%F0%9F%91%8B;I'm+a+Software+Engineer+%26+Creative+Technologist;I+build+bridges+between+code+and+creativity;Welcome+to+my+digital+universe." alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FFFF¢er=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Nimit+Aryan+%F0%9F%91%8B;I'm+a+Software+Engineer+%26+Creative+Technologist;I+build+bridges+between+code+and+creativity;Welcome+to+my+digital+universe." alt="Typing SVG" />
   
   <br>
 
