@@ -35,9 +35,7 @@ A Software Engineer & Creative Technologist bridging the gap between code and cr
     <img src="https://github-readme-stats.vercel.app/api?username=UnityNimit&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_border=true" alt="Nimit's GitHub stats" height="192px"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UnityNimit&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Nimit's Top Languages" height="192px"/>
 </p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnityNimit&theme=tokyonight&hide_border=true" alt="Nimit's GitHub Streak" />
-</p>
+
 
 ---
 
